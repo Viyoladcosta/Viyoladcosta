@@ -11,8 +11,9 @@ Aspiring SDE with strong skills in Python, SQL, Excel, HTML, CSS, JavaScript, an
 
 
 ### socials
-<img align="left" alt="Data science ethusiast| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+<img align="left" alt="Data science ethusiast| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg src=/>
+- [GitHub](https://github.com/yourusername)  
+  [LinkedIn](https://linkedin.com/in/yourprofile)  
 <br />
 
 ### Languages and Tools:
