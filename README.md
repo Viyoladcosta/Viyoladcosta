@@ -1,10 +1,10 @@
 ### Hello, I'm Viyola Dcosta👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src=""C:\Users\dcost\Downloads\code.gif"" width="500" height="320" />
 
 
 ## Datascience Ethusiast| Aspiring SDE | AI & Data Innovator
-I am a 3rd-year B.Tech Computer Science and Engineering (Data Science) student with a passion for engineering intelligent, data-driven solutions that merge innovation with impact. My work blends algorithmic problem-solving, predictive analytics, and scalable software design, leveraging skills in Python, SQL, HTML, CSS, JavaScript, AI/ML, and DSA. From building AI-powered job recommendation systems to developing tools that detect AI-generated content, I thrive at the intersection of creativity and technology, aiming to craft solutions that are both technically robust and socially relevant.
+Aspiring SDE with strong skills in Python, SQL, Excel, HTML, CSS, JavaScript, and DSA, passionate about AI-driven innovation and problem-solving.
 
 
 ### Talk with me, I am kinda awesome:
