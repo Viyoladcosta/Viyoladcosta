@@ -10,8 +10,7 @@
 Aspiring SDE with strong skills in Python, SQL, Excel, HTML, CSS, JavaScript, and DSA, passionate about AI-driven innovation and problem-solving.
 
 
-### socials
-<img align="left" alt="Data science ethusiast|
+
 <br />
 
 ### Languages and Tools:
