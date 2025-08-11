@@ -1,7 +1,6 @@
 ### Hello, I'm Viyola Dcosta👋
 
- <img align="right" alt="GIF" src="![code](https://github.com/user-attachments/assets/e7e42852-b50e-48c4-83d3-478d73595254)
-" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Viyoladcosta/Viyoladcosta/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## Datascience Ethusiast| Aspiring SDE | AI & Data Innovator
