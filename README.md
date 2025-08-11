@@ -10,8 +10,8 @@
 Aspiring SDE with strong skills in Python, SQL, Excel, HTML, CSS, JavaScript, and DSA, passionate about AI-driven innovation and problem-solving.
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Data science ethusiast| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+### socials
+<img align="left" alt="Data science ethusiast| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
