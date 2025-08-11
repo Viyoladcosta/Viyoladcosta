@@ -3,14 +3,8 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+## Datascience Ethusiast| Aspiring SDE | AI & Data Innovator
+I am a 3rd-year B.Tech Computer Science and Engineering (Data Science) student with a passion for engineering intelligent, data-driven solutions that merge innovation with impact. My work blends algorithmic problem-solving, predictive analytics, and scalable software design, leveraging skills in Python, SQL, HTML, CSS, JavaScript, AI/ML, and DSA. From building AI-powered job recommendation systems to developing tools that detect AI-generated content, I thrive at the intersection of creativity and technology, aiming to craft solutions that are both technically robust and socially relevant.
 
 
 ### Talk with me, I am kinda awesome:
