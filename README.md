@@ -389,7 +389,7 @@ Computer Science & Engineering
   <img src="https://img.shields.io/badge/GitHub-Viyola%20Dcosta-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://github.com/Viyoladcosta">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
